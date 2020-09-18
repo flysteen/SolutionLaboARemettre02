@@ -1,0 +1,4 @@
+﻿  Location.cpp
+D:\_2020Automne\420-1C6-Prog\semaine03\SolutionLaboARemettre02\ProjectRafaelWitty\Location.cpp(30,83): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+D:\_2020Automne\420-1C6-Prog\semaine03\SolutionLaboARemettre02\ProjectRafaelWitty\Location.cpp(37,64): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  ProjectRafaelWitty.vcxproj -> D:\_2020Automne\420-1C6-Prog\semaine03\SolutionLaboARemettre02\Debug\ProjectRafaelWitty.exe
